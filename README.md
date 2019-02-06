@@ -1,6 +1,6 @@
-# hello-world
-First repository
+# MOOC-Java-Course-Part-I
 
-Hello GitHub.
+Hello. This is a GitHub repository where I store completed coding exercises for the 2013 Java Programming Part I MOOC offered by the University of Helsinki. 
 
-I am a bear in the woods and I like to eat honey, berries, and food that humans leave on their campsites as they sleep.
+Feel free to examine my code. I want this repository to be a demonstration of my course progress.
+I will post code starting from Exercise 89 on until I finish Part I.
