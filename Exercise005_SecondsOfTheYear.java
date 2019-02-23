@@ -1,3 +1,5 @@
+// A program that calculates how many seconds are in a year. Teaches the coder how int variables can be used for math calculations.
+
 public class SecondsOfTheYear {
  
     public static void main(String[] args) {   
