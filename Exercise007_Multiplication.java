@@ -1,3 +1,5 @@
+// This program is the same as Exercise 6, but this time the user defined int variables are multiplied.
+
 public class Multiplication {
  
     public static void main(String[] args) {
