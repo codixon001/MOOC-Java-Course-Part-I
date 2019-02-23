@@ -1,3 +1,7 @@
+// This program prompts the user to enter in two numbers, adds the two numbers and prints the sum. 
+// Teaches the coder how to get the program to "ask" the user for numerical user input and how the 
+// program parses the numerical user input and assigns it to a int variable (the syntax to ask for String input is taught later).
+
 import java.util.Scanner;
  
 public class Adder {
