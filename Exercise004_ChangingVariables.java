@@ -1,3 +1,5 @@
+// A program that prints out user defined int, double, and String variable values using their respective variable names.
+
 public class Variables {
  
     public static void main(String[] args) {
