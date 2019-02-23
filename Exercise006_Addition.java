@@ -1,3 +1,5 @@
+// This program adds two user defined int variables together. Also shows the coder string and value concatenation.
+
 public class Addition {
  
     public static void main(String[] args) {
