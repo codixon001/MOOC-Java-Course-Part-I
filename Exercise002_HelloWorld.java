@@ -1,3 +1,5 @@
+// A program that prints "Hello World!" and "(And all the people of the world)" on separate lines using "println".
+
 public class Greeter {
  
     public static void main(String[] args) {
