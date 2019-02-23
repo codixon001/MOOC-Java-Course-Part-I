@@ -1,3 +1,5 @@
+// This program asks the user to enter in a "radius of a circle" value, and calculates the circle's circumference.
+
 import java.util.Scanner;
  
 public class Circumference {
